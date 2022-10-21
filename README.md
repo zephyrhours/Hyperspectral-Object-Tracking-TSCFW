@@ -7,7 +7,7 @@ This is the source codes for this paper called " Spatial-spectral Weighted and R
 <img src="flowchart_TSCFW.png" alt="workflow">
 Fig.1. Schematic of the proposed TSCFW framework
 
-<br />
+
 
 <img src="tracking_results.png" alt="workflow">
 Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest, paper). Bounding box in different colors are results from different trackers.
