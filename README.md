@@ -26,7 +26,7 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
 This article has been accepted for publication in IEEE Transactions on Geoscience and Remote Sensing. This is the author's version which has not been fully edited and
 content may change prior to final publication.
 
-If these codes and dataset are helpful for you, please cite this paper:
+If these codes are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
 
