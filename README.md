@@ -34,11 +34,11 @@ If these codes are helpful for you, please cite this paper:
 @ARTICLE{9924160,  
 author={Hou, Zengfu and Li, Wei and Zhou, Jun and Tao, Ran},  
 journal={IEEE Transactions on Geoscience and Remote Sensing},   
-title={Spatial-spatial Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos},   
+title={Spatial–Spectral Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos},   
 year={2022},  
-volume={},  
+volume={60},  
 number={},  
-pages={1-1},  
+pages={1-12},  
 doi={10.1109/TGRS.2022.3215431}}
 ```
 
@@ -46,7 +46,7 @@ doi={10.1109/TGRS.2022.3215431}}
 **Plain Text Format:**<br />
 
 ```
-Z. Hou, W. Li, J. Zhou and R. Tao, "Spatial-spatial Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos," in IEEE Transactions on Geoscience and Remote Sensing, 2022, doi: 10.1109/TGRS.2022.3215431.
+Z. Hou, W. Li, J. Zhou and R. Tao, "Spatial–Spectral Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5541012, doi: 10.1109/TGRS.2022.3215431.
 ```
 
 # Website
