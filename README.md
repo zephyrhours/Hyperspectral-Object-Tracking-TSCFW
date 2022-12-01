@@ -1,7 +1,7 @@
 # Hyperspectral-Object-Tracking-TSCFW
 There are the source codes for this paper called " Spatial-spectral Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos"
 
-**This paper is availavle under the "Early Access" area on IEEE Xplore. After the paper is officially published, the source codes of the TSCFW tracker will be available. Currently, we are sorting out this codes, please look forward to!**
+**This paper is availavle on IEEE Xplore. The source codes of the TSCFW tracker is available.**
 
 
 <img src="flowchart_TSCFW.png" alt="workflow">
@@ -23,8 +23,6 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
 
 
 # Citation
-This article has been accepted for publication in IEEE Transactions on Geoscience and Remote Sensing. This is the author's version which has not been fully edited and
-content may change prior to final publication.
 
 If these codes are helpful for you, please cite this paper:
 
