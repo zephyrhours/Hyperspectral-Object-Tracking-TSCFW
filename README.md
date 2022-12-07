@@ -16,6 +16,8 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
 # Prerequisites
 **MATLAB R2018a**
 
+Please unzip the tensor toolkit before running these code.
+
 
 # Source
 **Paper Download:**<br />
