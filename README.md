@@ -9,7 +9,7 @@ Fig.1. Schematic of the proposed TSCFW framework
 
 
 
-<img src="tracking_results.png" alt="workflow" width="600px" height="600px">
+<img src="tracking_results.png" alt="workflow" width="700px" height="600px">
 Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest, paper). Bounding box in different colors are results from different trackers.
 
 
@@ -21,7 +21,7 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
   <td><img src="paper.gif" alt="paper" width="300px" height="150px"></td>
   <td><img src="toy_car1.gif" alt="toy_car1" width="300px" height="150px"></td>
 </tr></table>
-
+**Note that** the first two datasets are board and paper scenarios, which are the XIMEA16 cube dataset. The third dataset is the XIMEA25 cube collected by ourselves.
 
 # Prerequisites
 **MATLAB R2018a**
