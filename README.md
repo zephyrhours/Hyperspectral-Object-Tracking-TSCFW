@@ -13,6 +13,14 @@ Fig.1. Schematic of the proposed TSCFW framework
 Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest, paper). Bounding box in different colors are results from different trackers.
 
 
+
+# Visualization Tracking Results
+<img src="paper.gif">
+Fig.3. <p>paper</p> scene
+
+
+
+
 # Prerequisites
 **MATLAB R2018a**
 
