@@ -15,10 +15,12 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
 
 
 # Visualization Tracking Results
-<img src="paper.gif">
-Fig.3. <p>paper</p> scene
 
-
+<table><tr>
+  <td><img src="board.gif" alt="board" width="400px" height="200px"></td>
+  <td><img src="paper.gif" alt="paper" width="400px" height="200px"></td>
+  <td><img src="toy_car1.gif" alt="toy_car1" width="400px" height="200px"></td>
+</tr></table>
 
 
 # Prerequisites
