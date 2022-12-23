@@ -9,7 +9,7 @@ Fig.1. Schematic of the proposed TSCFW framework
 
 
 
-<img src="tracking_results.png" alt="workflow" width="700px" height="600px">
+<img src="tracking_results.png" alt="workflow" width="750px" height="600px">
 Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest, paper). Bounding box in different colors are results from different trackers.
 
 
