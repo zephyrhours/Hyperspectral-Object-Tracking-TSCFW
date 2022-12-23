@@ -22,8 +22,7 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
   <td><img src="toy_car1.gif" alt="toy_car1" width="300px" height="150px"></td>
 </tr></table>
 
-**Note that**: the first two datasets are board and paper scenarios, which are the XIMEA16 cube dataset. The third dataset is the XIMEA25 cube collected by ourselves.
-
+**Note that**: these two datasets are board and paper scenarios, respectively, where the black bounding box is TSCFW tracker, the blue is ground truth, and the red is MHT tracker. 
 # Prerequisites
 **MATLAB R2018a**
 
