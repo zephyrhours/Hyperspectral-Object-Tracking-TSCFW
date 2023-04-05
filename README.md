@@ -62,7 +62,7 @@ Z. Hou, W. Li, J. Zhou and R. Tao, "Spatial–Spectral Weighted and Regularized 
 
 
 # Error Revised
-Our attribute evaluation code is developed based on the MATLAB program, and the space symbol is included in the description.txt file in some scenarios, which resulted in the program being unable to correctly match the attribute keywords in our defined dictionary, resulting in some attribute scenarios evaluation errors.** However, the conclusion of the paper was not affected**. The corrected results are as follows:
+Our attribute evaluation code is developed based on the MATLAB program, and the space symbol is included in the description.txt file in some scenarios, which resulted in the program being unable to correctly match the attribute keywords in our defined dictionary, resulting in some attribute scenarios evaluation errors. ** However, the conclusion of the paper was not affected** . The corrected results are as follows:
 
 <img src="Revised_Attribute_Evaluation_Results.png" alt="revised">
 Revised TABLE IV for Attribute Evaluation Results.
