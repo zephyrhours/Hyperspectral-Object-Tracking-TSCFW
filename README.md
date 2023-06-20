@@ -22,6 +22,7 @@ Fig.2. Visualization of results on 4 video sequences (i.e., drive, book, forest,
 </tr></table>
 
 **Note that**: these two datasets are board and paper scenarios, respectively, where the black bounding box is TSCFW tracker, the blue is ground truth, and the red is MHT tracker. 
+
 # Prerequisites
 **MATLAB R2018a**
 
